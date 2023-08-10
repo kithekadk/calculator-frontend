@@ -1,0 +1,15 @@
+{
+  "name": "basic-calculator-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest --reporter verbose"
+  },
+  "keywords": [],
+  "author": "Daniel Kitheka",
+  "license": "",
+  "dependencies": {
+    "vitest": "^0.34.1"
+  }
+}
